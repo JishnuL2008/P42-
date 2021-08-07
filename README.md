@@ -1,2 +1,2 @@
-# P42-
-Use Arrow Keys to move the spaceship. Dock it to the ISS Space Station.
+# p5.play-boilerplate
+Boiler plate for p5.play
